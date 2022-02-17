@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "first_name": "Customer_1",
+      "last_name": "Customer_1",
+      "email": "customer1@mail.com",
+      "phone": "00000000000",
+      "address": "Customer_1 Address",
+      "description": "Customer_1 description"
+    },
+    {
+      "id": 2,
+      "first_name": "Customer_2",
+      "last_name": "Customer_2",
+      "email": "customer2@mail.com",
+      "phone": "00000000000",
+      "address": "Customer_2 Adress",
+      "description": "Customer_2 Description"
+    },
+    {
+      "first_name": "Sai",
+      "last_name": "Sudi",
+      "email": "saikumarsudi@gmail.com",
+      "phone": "8978689118",
+      "address": "H.No : 3-213, Pasranagaram, Govindaraopet",
+      "description": "erwg",
+      "id": 3
+    },
+    {
+      "first_name": "Sai kumar",
+      "last_name": "Sudi",
+      "email": "ssssaikumarsudi2131@gmail.com",
+      "phone": "7794898511",
+      "address": "H.No : 3-213, Pasranagaram, Govindaraopet",
+      "description": "hiiiiiii",
+      "id": 4
+    }
+  ]
+}
